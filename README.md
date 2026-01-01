@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Murali Krishna  
 
-<!--
-**meralamuralikrishna-cpu/meralamuralikrishna-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 A student learning programming step by step  
+📘 Currently focused on **Python** and basic computer science  
+🚀 Exploring coding by building small projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🌱 Learning **Python** from scratch
+- 📚 Studying programming fundamentals
+- 🛠️ Practicing by writing real code
+- 🎯 Goal: Become a better developer with consistency
+
+---
+
+## 🛠️ Skills
+- Python 🐍 (learning)
+- C (basics)
+- HTML (basics)
+- Git & GitHub
+
+---
+
+## 📂 Projects
+🔹 Weather CLI App (Python + API)  
+🔹 Simple Login Page (HTML)  
+🔹 More coming soon 🚧  
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## ✨ Quote I Believe In
+> “Consistency beats motivation.”
+
+---
+
+⭐ Thanks for visiting my profile!
