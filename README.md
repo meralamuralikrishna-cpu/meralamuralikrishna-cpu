@@ -30,9 +30,9 @@
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meralamuralikrishna-cpu&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-
+![GitHub followers](https://img.shields.io/github/followers/meralamuralikrishna-cpu?style=social)
+![GitHub stars](https://img.shields.io/github/stars/meralamuralikrishna-cpu?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=meralamuralikrishna-cpu&color=blue)
 
 
 
