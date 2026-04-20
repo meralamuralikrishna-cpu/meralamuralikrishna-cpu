@@ -1,46 +1,28 @@
-# Hi 👋, I'm Murali Krishna  
+# Murali Krishna Merala 👋
 
-💻 A student learning programming step by step  
-📘 Currently focused on **Python** and basic computer science  
-🚀 Exploring coding by building small projects  
+**AIML Student | Linux Systems Enthusiast | Aspiring Software Engineer**
 
----
-
-## 🧠 About Me
-- 🌱 Learning **Python** from scratch
-- 📚 Studying programming fundamentals
-- 🛠️ Practicing by writing real code
-- 🎯 Goal: Become a better developer with consistency
+A detail-oriented Artificial Intelligence and Machine Learning student with a strong foundation in systems programming and Linux environments. Currently focused on mastering low-level performance, data structures, and efficient system architecture.
 
 ---
 
-## 🛠️ Skills
-- Python 🐍 
-- C 
-- C++ (learning)
-- POSTGRESQL (learning)
+### 🎓 Education & Academics
+- **Diploma in AIML** | Mohan Babu University (MBU), Tirupati
+- **Academic Standing:** 8.2 CGPA
+- **Current Focus:** 4th Semester (Web Technologies, AI, and Machine Learning)
+- **Goal:** Preparing for AP ECET 2027 to transition into B.Tech.
+
+### 💻 Technical Expertise
+- **Programming:** `C++` (STL & DSA Focus), `C`, `Python`, 
+- **Environment:** `Fedora 43 (KDE Plasma)`
+- **Focus Areas:** System Optimization, AI Fundamentals
+
+### 🚀 Current Learning & Projects
+- **The C++ Era:** Implementing Data Structures and Algorithms with a focus on memory management and efficiency.
+- **Cybersecurity:** Exploring web penetration testing and network security protocols.
+- **ProFix Project:** Developing a service-oriented platform to digitalize technical service workflows.
+- **Hardware Performance:** Optimizing NVIDIA RTX 3050 driver performance and system power management on Linux.
 
 ---
 
-## 📂 Projects
-🔹 Weather CLI App (Python + API)  
-🔹 Simple Login Page (HTML)  
-🔹 More coming soon 🚧  
-
----
-
-## 📈 GitHub Stats
-![GitHub followers](https://img.shields.io/github/followers/meralamuralikrishna-cpu?style=social)
-![GitHub stars](https://img.shields.io/github/stars/meralamuralikrishna-cpu?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=meralamuralikrishna-cpu&color=blue)
-
-
-
----
-
-## ✨ Quote I Believe In
-> “Consistency beats motivation.”
-
----
-
-⭐ Thanks for visiting my profile!
+*"Building efficient systems by understanding what happens under the hood."*
