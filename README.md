@@ -15,10 +15,10 @@
 ---
 
 ## 🛠️ Skills
-- Python 🐍 (learning)
-- C (basics)
-- HTML (basics)
-- Git & GitHub
+- Python 🐍 
+- C 
+- C++ (learning)
+- POSTGRESQL (learning)
 
 ---
 
