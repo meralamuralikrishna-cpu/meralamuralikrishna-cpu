@@ -1,6 +1,6 @@
 # Murali Krishna Merala 👋
 
-# Murali Krishna Merala 👋
+
 
 [ ![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=googlechrome&logoColor=white) ](https://meralamuralikrishna-cpu.github.io)
 
