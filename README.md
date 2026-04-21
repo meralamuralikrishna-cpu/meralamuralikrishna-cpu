@@ -30,6 +30,3 @@
 
 ---
 
-### 🛠️ Technical Stack
-```bash
-$ neofetch --skills
