@@ -1,5 +1,11 @@
 # Murali Krishna Merala 👋
 
+# Murali Krishna Merala 👋
+
+[ ![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=googlechrome&logoColor=white) ](https://meralamuralikrishna-cpu.github.io)
+
+... rest of your markdown content ...
+
 **AIML Student | Linux Systems Enthusiast | Aspiring Software Engineer**
 
 A detail-oriented Artificial Intelligence and Machine Learning student with a strong foundation in systems programming and Linux environments. Currently focused on mastering low-level performance, data structures, and efficient system architecture.
@@ -24,5 +30,6 @@ A detail-oriented Artificial Intelligence and Machine Learning student with a st
 - **Hardware Performance:** Optimizing NVIDIA RTX 3050 driver performance and system power management on Linux.
 
 ---
+
 
 *"Building efficient systems by understanding what happens under the hood."*
