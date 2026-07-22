@@ -1,38 +1,56 @@
-# Hi 👋, I'm Murali Krishna
+<div align="center">
 
-🎓 AIML Diploma Student  
-🐧 Linux Enthusiast  
-☁️ Learning Cloud Engineering & DevOps  
-📍 Guntur, Andhra Pradesh, India
+# 👋 Hi, I'm Murali Krishna
 
----
+### Linux • Cloud • DevOps
 
-## 🚀 Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Linux+Enthusiast;Cloud+Engineering+Learner;Building+Projects+Every+Day" />
 
-- Python
-- C++
-- Bash
-- SQL
-- Git & GitHub
-- Linux
-- Docker
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meralamuralikrishna-cpu&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meralamuralikrishna-cpu&layout=compact&theme=github_dark)
-
----
-
-## 📫 Connect
-
-- GitHub: https://github.com/meralamuralikrishna-cpu
-- LinkedIn: https://linkedin.com/in/murali-krishna-merala-070292330
-- Email: meralamuralikrishna@gmail.com
+- 🎓 AIML Diploma Student
+- 🐧 Fedora Linux User
+- ☁️ Learning Cloud Engineering & DevOps
+- 📍 Guntur, Andhra Pradesh, India
 
 ---
 
-> *Keep learning. Keep building. 🚀*
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,bash,js,git,github,linux,docker,vscode&theme=dark"/>
+
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+
+<a href="https://github.com/meralamuralikrishna-cpu">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/murali-krishna-merala-070292330">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:meralamuralikrishna@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+> **"Keep learning. Keep building. 🚀"**
+
+</div>
