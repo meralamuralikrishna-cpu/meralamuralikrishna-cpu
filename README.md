@@ -20,17 +20,6 @@
 
 </div>
 
-## 🎯 **MISSION**
-
-```
-████████████████████████████████████████████████████ 100%
-
-Building a Senior AIML Engineer career by 2030.
-No BS. Just shipping. Every. Single. Day.
-```
-
----
-
 ## 💎 **TECH ARSENAL**
 
 <div align="center">
@@ -57,65 +46,6 @@ No BS. Just shipping. Every. Single. Day.
 
 ---
 
-## 🚀 **2024-2030 ROADMAP**
-
-```
-2024          2025          2026          2027-2028      2029-2030
-│             │             │             │              │
-├─ Linux      ├─ AWS        ├─ Docker/K8  ├─ AIML Prep  ├─ Senior Role
-├─ Bash       ├─ Terraform  ├─ CI/CD      ├─ Job Hunt  └─ Leadership
-└─ Git        └─ Deploy     └─ Deploy     └─ Negotiate
-```
-
----
-
-## 🎨 **ACTIVE PROJECTS**
-
-<table>
-<tr>
-<td width="50%">
-
-### 🐳 **Docker Log Analyzer**
-Portfolio project blending Python + Docker orchestration
-- Real log processing
-- Containerized deployment
-- CI/CD ready
-
-</td>
-<td width="50%">
-
-### 🖥️ **Homelab Cloud Stack**
-Personal cloud infrastructure
-- Nextcloud + MariaDB
-- Docker Compose
-- Fedora Linux
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 **Portfolio Website**
-Clean minimal design deployed on GitHub Pages
-- Zero dependencies
-- Mobile responsive
-- Lightning fast
-
-</td>
-<td width="50%">
-
-### 📚 **DSA + AIML**
-Grinding LeetCode & building ML fundamentals
-- Data structures mastery
-- Algorithm optimization
-- Cloud ML frameworks
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📊 **GITHUB STATS**
 
 <div align="center">
@@ -128,37 +58,23 @@ Grinding LeetCode & building ML fundamentals
 
 ---
 
-## 🔥 **WHAT DRIVES ME**
-
-> **"The only way out is through. Ship it. Learn in public. No excuses."**
-
-```
-┌──────────────────────────────────────┐
-│ ✅ Code First                        │
-│ ✅ Learn in Public                   │
-│ ✅ Deploy Often                      │
-│ ✅ Iterate Fast                      │
-│ ✅ No Overthinking                   │
-│ ✅ Just Ship It                      │
-└──────────────────────────────────────┘
-```
-
----
-
-## 🎯 **MILESTONES**
+## 🔥 **GIT COMMITS & ACTIVITY**
 
 <div align="center">
 
-| ✅ | 🏆 |
-|----|----|
-| Linux fundamentals mastery | 23-week curriculum complete |
-| Portfolio website deployed | Live on GitHub Pages |
-| Consistent GitHub commits | Daily push discipline |
-| Homelab infrastructure | Nextcloud + MariaDB running |
-| **→ Next:** AWS Solutions Architect | Coming 2025 |
-| **→ Next:** First Docker deployment | Coming soon |
+![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=meralamuralikrishna-cpu&theme=radical&hide_border=true)
+
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meralamuralikrishna-cpu&theme=radical)
 
 </div>
+
+### 📈 **Commit Stats**
+```
+Total Commits: Building daily consistency
+Contribution Streak: Active & Growing
+Most Used Language: Python
+Favorite Tool: Linux Terminal
+```
 
 ---
 
