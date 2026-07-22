@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Murali Krishna
 
-### Linux • Cloud • DevOps
+### AIML Student • Linux Enthusiast • Open Source Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Linux+Enthusiast;Cloud+Engineering+Learner;Building+Projects+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Artificial+Intelligence+%26+Machine+Learning;Linux+Enthusiast;Open+Source+Learner;Always+Building+Something+New" />
 
 </div>
 
@@ -12,18 +12,18 @@
 
 ## 🚀 About Me
 
-- 🎓 AIML Diploma Student
+- 🎓 Diploma Student in **Artificial Intelligence & Machine Learning (AIML)**
 - 🐧 Fedora Linux User
-- ☁️ Learning Cloud Engineering & DevOps
-- 📍 Guntur, Andhra Pradesh, India
+- 🤖 Interested in AI, Machine Learning & Automation
+- 💻 Building projects and learning every day
 
 ---
 
-## 💻 Tech Stack
+## 💻 Skills
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,bash,js,git,github,linux,docker,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,bash,git,github,linux,docker,vscode&theme=dark"/>
 
 </p>
 
@@ -51,6 +51,6 @@
 
 <div align="center">
 
-> **"Keep learning. Keep building. 🚀"**
+### 💡 *"Learn. Build. Improve. Repeat."*
 
 </div>
