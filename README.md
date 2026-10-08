@@ -63,7 +63,7 @@ class Murali:
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/1f6feb/meralamuralikrishna-cpu" alt="Contribution graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=meralamuralikrishna-cpu&theme=tokyo-night&area=true&hide_border=true&custom_title=Murali%27s%20Contribution%20Graph" alt="Contribution graph" width="100%" />
 
 </div>
 
