@@ -46,26 +46,6 @@ class Murali:
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages & Core**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,bash,js&theme=dark" />
-
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=linux,fedora,git,github,docker,vscode&theme=dark" />
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -83,7 +63,7 @@ class Murali:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meralamuralikrishna-cpu&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://ghchart.rshah.org/1f6feb/meralamuralikrishna-cpu" alt="Contribution graph" width="100%" />
 
 </div>
 
