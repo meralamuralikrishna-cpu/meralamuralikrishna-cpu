@@ -63,17 +63,7 @@ class Murali:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meralamuralikrishna-cpu&theme=tokyo-night&area=true&hide_border=true&custom_title=Murali%27s%20Contribution%20Graph" alt="Contribution graph" width="100%" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=meralamuralikrishna-cpu&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=7" />
+<img src="./assets/contribution-graph.svg" alt="Contribution graph" width="100%" />
 
 </div>
 
